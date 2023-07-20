@@ -1,3 +1,5 @@
-console.log('Hello World');
-
-console.log('sss');
+ export const actionTypes = {
+    SET_PRODUCTS: 'SET_PRODUCT',
+    SELECTED_PRODUCT: 'ELECTED_PRODUCT',
+    DELETE_PRODUCT: 'DELETE_PRODUCT'
+}
